@@ -4,7 +4,7 @@
 
 > #### ***REQUIREMENTS***
 
-> - vs 2017
+![alt text](https://img.shields.io/badge/Visual%20Studio-2017-blue.svg)
 
 ### ***RUN THE APPLICATION***
 
